@@ -1,0 +1,1 @@
+Algorithm for implementing a palindrome search in a row
